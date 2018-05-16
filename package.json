@@ -1,0 +1,28 @@
+{
+  "name": "koa-cas",
+  "version": "0.1.0",
+  "description": "CAS middleware for Koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NewLunarFire/koa-cas.git"
+  },
+  "keywords": [
+    "koa",
+    "cas"
+  ],
+  "author": "Tommy Savaria <tommy.savaria@protonmail.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NewLunarFire/koa-cas/issues"
+  },
+  "homepage": "https://github.com/NewLunarFire/koa-cas#readme",
+  "dependencies": {
+    "mocha": "^5.1.1",
+    "superagent": "^3.8.3",
+    "xml-js": "^1.6.2"
+  }
+}
